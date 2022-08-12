@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @davirosarback
-- 👀 I’m interested in web and desktop development
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Python
+Hi, I’m @davirosarback
+I have skills in Frontend developmet (HTML, CSS, JS)
+I’m currently learning React JS 
 
 
 <!---
