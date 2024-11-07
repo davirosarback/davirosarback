@@ -1,6 +1,6 @@
 - Hi, I’m @davirosarback
-- I have skills in Frontend developmet (HTML, CSS, JS)
-- I’m currently learning React JS and PHP
+- I have skills in Frontend developmet (Vanilla JS, React and Bootstrap)
+- I’m currently learning Node JS
 
 
 <!---
